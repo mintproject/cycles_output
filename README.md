@@ -1,6 +1,6 @@
-# Transforming Cycles outputs to NetCDF
+# Transforming Cycles outputs to a standard file format
 
-Routines and recipes to transform cycles outputs to netcdf MINT. 
+Routines and recipes to transform cycles outputs to standard format.
 
 NetCDF MINT conventions are defined on [this GitHub repo](https://github.com/mintproject/MINT-NetCDF-Convention).
 
@@ -24,6 +24,8 @@ Use a combination of JSON/csv to represent the Cycles data. Metadata in the JSON
 	2. geospatial_bounds
 3. Model parameters
 	1. Exposed parameters from the configuration
+	2. Model name (The actual model, not config)
+	3. Model version
 4. Data
 	1. short name
 	2. Title
