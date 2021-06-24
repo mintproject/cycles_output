@@ -18,7 +18,7 @@ Use a combination of JSON/csv to represent the Cycles data. Metadata in the JSON
 	9. convention: MINT
 	10. time_coverage_start
 	11. time_coverage_end
-	12. ensemble_id
+	12. execution_id
 2. Location metadata
 	1. GeoJSON Point
 	2. geospatial_bounds
@@ -26,6 +26,7 @@ Use a combination of JSON/csv to represent the Cycles data. Metadata in the JSON
 	1. Exposed parameters from the configuration
 	2. Model name (The actual model, not config)
 	3. Model version
+	4. Model_description
 4. Data
 	1. short name
 	2. Title
