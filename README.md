@@ -21,7 +21,7 @@ Use a combination of JSON/csv to represent the Cycles data. Metadata in the JSON
 	12. ensemble_id
 	13. execution_id
 2. Location metadata
-	1. GeoJSON Point
+	1. coordinates: GeoJSON Point
 	2. geospatial_bounds
 3. Model parameters
 	1. Exposed parameters from the configuration
