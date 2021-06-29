@@ -1,0 +1,20 @@
+{
+  "season": "/Users/deborahkhider/Documents/GitHub/cycles_to_netcdf/season.dat",
+  "summary": "/Users/deborahkhider/Documents/GitHub/cycles_to_netcdf/summary.dat",
+  "lat": 6.5,
+  "lon": 54.5,
+  "execution_id": "fshfufbfbubfjdbfsj45",
+  "ensemble_id": "fhvjbjvbfjvbjebjebje",
+  "params": {
+    "start_year": 1980,
+    "end_year": 2019,
+    "crop_name": "Maize",
+    "start_planting_day": 34,
+    "end_planting_day": 149,
+    "fertilizer_rate": 0,
+    "weed_fraction": 0.4
+    }, 
+  "model_name": "Cycles",
+  "model_version": "v10.3",
+  "model_description": "Cycles simulates the productivity and the water,carbon and nitrogen balance of soil-crop systems subject to climate conditions and a large array of management constraints."
+}
